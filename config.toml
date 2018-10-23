@@ -1,0 +1,4 @@
+baseURL = "https://blog.rankine.systems"
+language-code = "en-gb"
+title = "Rankine Chronicles"
+theme = "ananke"
